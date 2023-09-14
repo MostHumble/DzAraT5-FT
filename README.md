@@ -1,6 +1,7 @@
 # DzAraT5-FT
 UBC-NLP/AraT5v2-base-1024 finetuned for hate speech classification 
 
+Base model: 
 ```
 @inproceedings{nagoudi-etal-2022-arat5,
     title = "{A}ra{T}5: Text-to-Text Transformers for {A}rabic Language Generation",
